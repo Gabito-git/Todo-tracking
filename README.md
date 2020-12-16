@@ -1,16 +1,4 @@
-# Webpack starter
+# Todo Tracking
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Aplicación diseñada para el siguimiento y control de las tareas del día a día
 
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-
-```
-
-Y para construir el build, recuerden:
-
-```
-npm run build
-```
